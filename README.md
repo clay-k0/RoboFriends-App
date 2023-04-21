@@ -1,7 +1,7 @@
 ## RoboFriends
 
 You Can Either
-[Visit The Website](https://clay-k0.github.io/RoboFriends/)
+[Visit The Website](https://clay-k0.github.io/RoboFriends-App/)
 
 or
 
